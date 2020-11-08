@@ -1,4 +1,4 @@
-# Smart-Lighting-System---Proteus
+# Smart-Lighting-System-Proteus
 
 The project aims at designing a Smart Lighting System for a conference room using Proteus Design Suite.
 
